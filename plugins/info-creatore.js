@@ -5,9 +5,9 @@ let handler = async (m, { conn }) => {
   // vCard primo contatto
   let vcard1 = `BEGIN:VCARD
 VERSION:3.0
-FN: vale
-ORG: vale
-TEL;type=CELL;type=VOICE;waid=‪393773842461‬:‪+39 377 384 2461‬
+FN: endy
+ORG: endy
+TEL;type=CELL;type=VOICE;waid=‪393773842461‬:+62 851-4817-7865
 END:VCARD`
 
 
