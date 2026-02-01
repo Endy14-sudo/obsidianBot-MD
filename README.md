@@ -76,7 +76,7 @@ yarn start
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
 ```bash
-cd chatunity-bot
+cd obsidianBot-MD 
 rm -rf Sessioni
 npm start
 ```
@@ -114,8 +114,8 @@ pm2 logs
 
 2. Clona e installa:
    ```bash
-   git clone https://github.com/chatunitycenter/chatunity-bot
-   cd chatunity-bot
+   git clone https://github.com/Endy14_sudo/obsidianBot-MD 
+   cd obsidian
    npm install
    npm update
    npm start
