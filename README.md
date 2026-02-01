@@ -127,8 +127,8 @@ pm2 logs
 
 ## 📂 Risorse Utili
 
-- **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
-- **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
+- **Dashboard GitHub**: [Visita qui](https://github.com/)
+- **Canale WhatsApp**: [Unisciti qui]( https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q)
 - **Contatto**: [Scrivi qui](https://wa.me/393773842461)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
 
@@ -148,6 +148,6 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 
 ## 📜 Licenza
 
-© ChatUnity-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
+© Nexon-bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
 <p align="center"><strong>🌟 Supporta il progetto con una stella su GitHub! 🌟</strong></p>
