@@ -127,7 +127,7 @@ pm2 logs
 
 ## 📂 Risorse Utili
 
-- **Dashboard GitHub**: [Visita qui](https://github.com/)
+- **Dashboard GitHub**: [Visita qui](https://github.com/obsidianBot-MD)
 - **Canale WhatsApp**: [Unisciti qui]( https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q)
 - **Contatto**: [Scrivi qui](https://wa.me/393773842461)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
