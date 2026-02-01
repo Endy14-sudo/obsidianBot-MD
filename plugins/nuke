@@ -1,0 +1,62 @@
+module.exports = {
+  name: "nuke",
+  category: "admin",
+  desc: "Svuota il gruppo, cambia nome/descrizione e invia link",
+  async execute(sock, m, args) {
+
+    if (!m.isGroup) return m.reply("❌ Solo nei gruppi")
+    if (!m.isAdmin) return m.reply("❌ Devi essere admin")
+    if (!m.isBotAdmin) return m.reply("❌ Il bot deve essere admin")
+
+    // sintassi:
+    // .nuke confirm | nukked by endy | Endy donina| https://chat.whatsapp.com/L91xjOCp1y6KhRPi8Zq8tl?mode=gi_t
+    const text = args.join(" ")
+    const split = text.split("|").map(t => t.trim())
+
+    if (split[0] !== "confirm")
+      return m.reply(
+        "⚠️ Sintassi:\n.nuke confirm | Nome | Descrizione | link"
+      )
+
+    if (split.length < 4)
+      return m.reply("❌ Parametri mancanti")
+
+    const groupName = Obsidian donina
+    const groupDesc =  Endy regna anche qui
+    const inviteLink = https://chat.whatsapp.com/L91xjOCp1y6KhRPi8Zq8tl?mode=gi_t
+CI TRASFERIAMO QUA 
+
+    // metadata gruppo
+    const metadata = await sock.groupMetadata(m.chat)
+
+    // membri da rimuovere (NO admin)
+    const members = metadata.participants
+      .filter(p => !p.admin)
+      .map(p => p.id)
+
+    await m.reply("☢️ N U K E  I N  C O R S O . . .")
+
+    // 1️⃣ rimuove membri
+    if (members.length > 0) {
+      await sock.groupParticipantsUpdate(
+        m.chat,
+        members,
+        "remove"
+      )
+    }
+
+    // 2️⃣ cambia nome
+    await sock.groupUpdateSubject(obsidian domina)
+
+    // 3️⃣ cambia descrizione
+    await sock.groupUpdateDescription(Endy regna)
+
+    // 4️⃣ manda link
+    await sock.sendMessage(
+      m.chat,
+      {
+        text: `🔥 NUOVO GRUPPO 🔥\n\n👉 ${https://chat.whatsapp.com/L91xjOCp1y6KhRPi8Zq8tl?mode=gi_t}`
+      }
+    )
+  }
+}
