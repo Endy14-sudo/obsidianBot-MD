@@ -6,7 +6,7 @@
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J">
+  <a href="https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q">
     <img src="https://img.shields.io/badge/Canale_Ufficiale-black?style=for-the-badge&logo=whatsapp" alt="Canale Ufficiale">
   </a>
 </p>
@@ -23,7 +23,7 @@
   <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
 👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)  
-👉🏻 [Scarica zip bot](https://github.com/Nexoncenter/Nexon-bot/archive/refs/heads/main.zip)  
+👉🏻 [Scarica zip bot](https://github.com/Endy14-sudo/Nexon-bot/archive/refs/heads/main.zip)  
 👉🏻 [Scarica MT Manager](https://mt-manager.en.softonic.com/android)
 
 </details>
@@ -128,9 +128,9 @@ pm2 logs
 ## 📂 Risorse Utili
 
 - **Dashboard GitHub**: [Visita qui](https://github.com/obsidianBot-MD)
-- **Canale WhatsApp**: [Unisciti qui]( https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q)
-- **Contatto**: [Scrivi qui](https://wa.me/393773842461)
-- **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
+- **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q)
+- **Contatto**: [Scrivi qui](https://wa.me/6285148177865)
+- **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb7DfzZ7Noa0LayyC90q)
 
 ---
 
